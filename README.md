@@ -1,4 +1,4 @@
 # OLAP_Tabular
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/JavidSalehzadeh/OLAP_Tabular/blob/master/Files/OLAP.png)
